@@ -1,13 +1,13 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Shameka Freeman
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  The beautiful artist, poet, craftsperson, cyclist, and avid juggler
 
 # A brief blurb about yourself
 content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
 
-# Add your social links
+# Add your social links 
 social:
   - platform: github
     url: https://github.com/brianmaierjr
@@ -23,7 +23,7 @@ social:
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
+google_analytics: " " # google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
